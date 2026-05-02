@@ -10,13 +10,16 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/hurl/refs/heads/main/apis.yml
 created: '2026-03-25'
-modified: '2026-03-25'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis:
   - aid: hurl:hurl
     name: Hurl
     description: >-
-      Hurl is an open source command-line tool for running HTTP requests defined in a simple plain text format with built-in assertions for API testing.
+      Hurl is an open source command-line tool for running HTTP requests
+      defined in a simple plain text format, with built-in assertions for
+      API testing, response capturing, and request chaining. As a CLI
+      utility, Hurl does not expose its own HTTP API or OpenAPI specification.
     humanURL: https://hurl.dev
     tags:
       - Command Line Interface

@@ -38,6 +38,8 @@ common:
     url: https://hurl.dev/docs/manual.html
   - type: GitHubOrganization
     url: https://github.com/Orange-OpenSource/hurl
+  - type: LLMsTxt
+    url: https://hurl.dev/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

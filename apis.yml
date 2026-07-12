@@ -30,6 +30,8 @@ apis:
       - type: GitHubRepository
         url: https://github.com/Orange-OpenSource/hurl
 common:
+  - type: DomainSecurity
+    url: security/hurl-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hurl
   - type: Website
@@ -40,6 +42,8 @@ common:
     url: https://github.com/Orange-OpenSource/hurl
   - type: LlmsText
     url: https://hurl.dev/llms.txt
+  - url: https://hurl.dev/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

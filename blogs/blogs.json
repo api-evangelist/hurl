@@ -1,0 +1,14 @@
+{
+  "repo": "hurl",
+  "feeds": [
+    {
+      "source": "https://hurl.dev/blog/",
+      "feed_url": "https://hurl.dev/blog/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 16
+}

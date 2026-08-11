@@ -42,6 +42,15 @@ apis:
       - type: GitHubRepository
         url: https://github.com/Orange-OpenSource/hurl
 common:
+  - type: IssueTracker
+    url: https://github.com/Orange-OpenSource/hurl/issues
+  - type: Releases
+    url: https://github.com/Orange-OpenSource/hurl/releases
+  - type: ContributionGuide
+    url: https://github.com/Orange-OpenSource/hurl/blob/master/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/Orange-OpenSource/hurl/blob/master/LICENSE
   - type: DomainSecurity
     url: security/hurl-domain-security.yml
   - type: LinkedIn
